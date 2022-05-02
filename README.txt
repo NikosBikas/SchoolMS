@@ -1,6 +1,3 @@
-# SchoolMS
-Basic School Management System application written in Python 3.10
-
 .s5SSSs.                                                    .s5ssSs.  .s5SSSs.
       SS. .s5SSSs.  .s    s.  .s5SSSs.  .s5SSSs.  .s           SS SS.       SS.
 sS    `:;       SS.       SS.       SS.       SS.           sS SS S%S sS    `:;
@@ -16,4 +13,3 @@ SS        sS    `:; sS    S%S sS    S%S sS    S%S sS        SS :; S%S SS
 *Tested on Windows and Linux!
 *Excecute with: python.exe SchoolMS.py under windows...
 *Excecute with: python3 SchoolMS.py under linux...
-

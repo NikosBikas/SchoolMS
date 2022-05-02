@@ -54,11 +54,11 @@ def addNewTrainer():
         break 
 
 def dummyTrainers():
-    Trainers.trainersList.append(Trainers('Sarantia','Tyrovola',{'Python','JavaScript'}))
-    Trainers.trainersList.append(Trainers('George','Pasparakis',{'C#','JavaScript','Python','Java'}))
-    Trainers.trainersList.append(Trainers('Antonios','Thodos',{'JavaScript'}))
-    Trainers.trainersList.append(Trainers('Lena','Kapetanaki',{'JavaScript'}))
-    Trainers.trainersList.append(Trainers('Danae','Tzoumba',{'Python'}))
+    Trainers.trainersList.append(Trainers('Name1','Last_Name1',{'Python','JavaScript'}))
+    Trainers.trainersList.append(Trainers('Name2','Last_Name2',{'C#','JavaScript','Python','Java'}))
+    Trainers.trainersList.append(Trainers('Name3','Last_Name3',{'JavaScript'}))
+    Trainers.trainersList.append(Trainers('Name4','Last_Name4',{'JavaScript'}))
+    Trainers.trainersList.append(Trainers('Name5','Last_Name5',{'Python'}))
 
     return Trainers.trainersList    
 

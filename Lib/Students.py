@@ -81,14 +81,14 @@ def addNewStudent():
     
 
 def dummyStudents():
-    Students.studentsList.append(Students('Nikolaos','Bikas',{'Python','C#'},2000,'1994-06-10'))
-    Students.studentsList.append(Students('Anestis','Pournis',{'Java','Python'},2000,'1987-08-15'))
-    Students.studentsList.append(Students('Richter','Philippos',{'JavaScript'},2000,'1990-12-23'))
-    Students.studentsList.append(Students('Constantinos','Zarbonis',{'C#'},2000,'1997-10-10'))
-    Students.studentsList.append(Students('Vasiliki','Genitsari',{'Python'},2000,'1999-01-21'))
-    Students.studentsList.append(Students('Theodoros','Maggas',{'Java'},2000,'1975-05-18'))
-    Students.studentsList.append(Students('Panagiotis','Grammatikas',{'Python'},2000,'1979-02-01'))
-    Students.studentsList.append(Students('Dimitra','Tsakona',{'Python','C#'},2000,"1993-10-03"))
+    Students.studentsList.append(Students('Name1','Last_Name1',{'Python','C#'},2000,'1994-06-10'))
+    Students.studentsList.append(Students('Name2','Last_Name2',{'Java','Python'},2000,'1987-08-15'))
+    Students.studentsList.append(Students('Name3','Last_Name3',{'JavaScript'},2000,'1990-12-23'))
+    Students.studentsList.append(Students('Name4','Last_Name4',{'C#'},2000,'1997-10-10'))
+    Students.studentsList.append(Students('Name5','Last_Name5',{'Python'},2000,'1999-01-21'))
+    Students.studentsList.append(Students('Name6','Last_Name6',{'Java'},2000,'1975-05-18'))
+    Students.studentsList.append(Students('Name7','Last_Name7',{'Python'},2000,'1979-02-01'))
+    Students.studentsList.append(Students('Name8','Last_Name8',{'Python','C#'},2000,"1993-10-03"))
 
     for std in Students.studentsList:
         #iterating through the list that contains dummy students
